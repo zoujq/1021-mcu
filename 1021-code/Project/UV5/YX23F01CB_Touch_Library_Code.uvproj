@@ -311,7 +311,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\Application;..\..\User\INC;..\..\Libraries</IncludePath>
+              <IncludePath>..\..\Application;..\..\User\INC;..\..\Libraries;..\..\User\pt_os</IncludePath>
             </VariousControls>
           </C51>
           <Ax51>
