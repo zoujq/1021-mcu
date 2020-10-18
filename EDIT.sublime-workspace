@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"work_mode"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"s",
+				"success_time"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"P",
+				"P_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"di",
+				"display\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk"
+	],
+	"file_history":
+	[
+		"/D/1005_项目/9001-芯片/5001-51/芯圣/HC89F3xx1模块例程/HC89F3541 Register Example V1.0.2.0/Timer-T0定时器模式/user/main.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/Main.c",
+		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/main.c",
+		"/D/1005_项目/9001-芯片/5020-语音/CH-mcu/source/main.c",
+		"/D/1005_项目/1020-裤头车/裤头车/裤头车计数器程序1/裤头车计数器程序/5-完成复位功能.c",
+		"/C/Users/ideaz/Documents/WeChat Files/wxid_on6hm0ikf6fd22/FileStorage/File/2020-10/hot.c",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/app/index.php",
+		"/D/1002_灯饰/7001_抓图工具/图片工具01.html",
+		"/D/1001_公司/5002_火天LOGO/火天-基础包内容/火天-logo源文件.svg",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/get_user_info_by_email.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/send_email_code.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/regist_email.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/wx_jiemi/sql.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/check_email_code.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/sql.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/send_email.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/send_email_code.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/send_email_fun.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/send_verification_code_from_email.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/wx_jiemi/wx_regist.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/send_verification_code.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/phpmailer/class.phpmailer.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/phpmailer/class.smtp.php",
+		"/F/万事达/web/auth.smart-show.com/send_email_captcha.php",
+		"/C/Users/ideaz/Desktop/PHPMailer-FE_v4.11/_lib/samplejobenquiry/samplejobenquiry.config.php",
+		"/C/Users/ideaz/Desktop/PHPMailer-FE_v4.11/_lib/sampleform/sampleform.config.php",
+		"/C/Users/ideaz/Desktop/Yame-login_0.0.2/login/login.vue",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/auth/email/index - Copy.php",
+		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/temperature.c",
+		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/tm1722.c",
+		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/hot.c",
+		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/rtc.c",
+		"/D/1005_项目/9001-芯片/5001-51/锦锐/CA51F3增强型_SDK_【2019-12-9】(1)/CA51F3增强型_SDK_【2019-12-9】/应用实例/RTC_Clock_Function/source/rtc.c",
+		"/C/Users/ideaz/Desktop/New Text Document.txt",
+		"/D/1005_项目/1007-电热水壶/软件/HT_SHUIHU_1/source/main.c",
+		"/D/1005_项目/1007-电热水壶/软件/SHUIHU/source/main.c",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/index.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/message.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/contact.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/about.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/products.php",
+		"/D/1005_项目/1007-电热水壶/电路设计/元件datasheet/tm1722.c",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/services.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/README.md",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/sql.php",
+		"/F/万事达/1001-项目/1101-温控-S3 Pro/新SVN/MCU软件/S3_switch/S3_switch/S3_switch.C",
+		"/F/Keil/TOOLS.INI",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/puoducts_all.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/js_css/custom.css",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/index.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p3.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/products.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/js_css/custom.js",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/js_css/scripts.min.js",
+		"/D/1001_公司/5006_服务器/历史/网站/js_css/custom.css",
+		"/D/1001_公司/5006_服务器/历史/网站/detials0.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p2.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p4.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p5.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p1.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials_p6.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/js_css/style.min.css",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/js_css/styles-merged.css",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials0.html",
+		"/D/1001_公司/5006_服务器/网站/products.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/huotian_message.php",
+		"/D/1001_公司/5006_服务器/网站/js_css/styles-merged.css",
+		"/D/1001_公司/5006_服务器/网站/index.html",
+		"/D/1001_公司/5006_服务器/网站/contact.html",
+		"/D/1001_公司/5006_服务器/网站/detials0.html",
+		"/D/1001_公司/5006_服务器/网站/js_css/style.min.css",
+		"/D/1001_公司/5006_服务器/网站/about.html",
+		"/D/1001_公司/5006_服务器/网站/services.html",
+		"/D/1001_公司/5006_服务器/网站/js_css/icomoon.woff",
+		"/D/1001_公司/5006_服务器/网站/js_css/custom.js",
+		"/D/1001_公司/5006_服务器/网站/js_css/custom.css",
+		"/D/1001_公司/5006_服务器/网站/js_css/astyle.css",
+		"/D/1001_公司/5006_服务器/网站/Home.html",
+		"/D/1003_店铺/淘宝/店铺代码.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\1005_项目\\1021-暖菜盘20201016\\SVN\\1021-mcu.git\\trunk"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

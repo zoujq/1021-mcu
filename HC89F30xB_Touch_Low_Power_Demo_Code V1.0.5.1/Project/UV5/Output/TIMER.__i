@@ -1,1 +1,0 @@
-"..\..\Application\TIMER\TIMER.c" OMF2 OPTIMIZE (8,SPEED) BROWSE INCDIR(..\..\Application;..\..\User\INC;..\..\Libraries) DEBUG PRINT(.\List\TIMER.lst) TABS (2) OBJECT(.\Output\TIMER.obj)

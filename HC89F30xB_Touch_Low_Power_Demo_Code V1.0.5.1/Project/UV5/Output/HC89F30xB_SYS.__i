@@ -1,1 +1,0 @@
-"..\..\User\C\HC89F30xB_SYS.c" OMF2 OPTIMIZE (8,SPEED) BROWSE INCDIR(..\..\Application;..\..\User\INC;..\..\Libraries) DEBUG PRINT(.\List\HC89F30xB_SYS.lst) TABS (2) OBJECT(.\Output\HC89F30xB_SYS.obj)

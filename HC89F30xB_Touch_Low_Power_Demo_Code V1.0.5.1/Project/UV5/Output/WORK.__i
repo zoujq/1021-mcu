@@ -1,1 +1,0 @@
-"..\..\User\C\WORK.c" OMF2 OPTIMIZE (8,SPEED) BROWSE INCDIR(..\..\Application;..\..\User\INC;..\..\Libraries) DEBUG PRINT(.\List\WORK.lst) TABS (2) OBJECT(.\Output\WORK.obj)
