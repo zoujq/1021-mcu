@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"dings",
+				"dingshi_start"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
 				"w",
 				"work_mode"
 			],
@@ -30,10 +38,6 @@
 			[
 				"s",
 				"success_time"
-			],
-			[
-				"de",
-				"define"
 			],
 			[
 				"sta",
@@ -83,6 +87,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "1021-code/User/Main.c",
+			"settings":
+			{
+				"buffer_size": 11791,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -128,12 +141,17 @@
 	},
 	"expanded_folders":
 	[
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk"
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC"
 	],
 	"file_history":
 	[
-		"/D/1005_项目/9001-芯片/5001-51/芯圣/HC89F3xx1模块例程/HC89F3541 Register Example V1.0.2.0/Timer-T0定时器模式/user/main.c",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/Main.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC/delay.h",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/pt_os/pt.h",
+		"/D/1005_项目/9001-芯片/5001-51/芯圣/HC89F3xx1模块例程/HC89F3541 Register Example V1.0.2.0/Timer-T0定时器模式/user/main.c",
 		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/main.c",
 		"/D/1005_项目/9001-芯片/5020-语音/CH-mcu/source/main.c",
 		"/D/1005_项目/1020-裤头车/裤头车/裤头车计数器程序1/裤头车计数器程序/5-完成复位功能.c",
@@ -216,7 +234,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -230,6 +248,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"display_yuyue_set",
+			"set_yuyue_time_plus",
+			"display_temp"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -253,8 +274,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "1021-code/User/Main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4850,
+								4850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4000.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
