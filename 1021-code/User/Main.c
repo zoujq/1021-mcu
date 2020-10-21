@@ -42,6 +42,7 @@ char kid_lock=0;
 char led_buff=0;
 u16 current_temp=0;
 char err_code=0;
+char start_work=0;
 //================================================================================
 void set_temp_plus()
 {
@@ -304,6 +305,7 @@ void key_check()
 	{		
 		if(count0<2100)
 		{
+			start_work=0;
 			count0++;
 			if(count0%350==0)
 			{
@@ -337,6 +339,7 @@ void key_check()
 		}
 		else
 		{
+			start_work=1;
 			if(display_mode==0)
 			{
 				display_set_temp();
@@ -453,7 +456,7 @@ void hot_check()
 		P1M1=GPIO_Out_PP;//hot
 		inited=1;
 	}
-	if(work_mode==1 && yuyue_counter==0)
+	if(work_mode==1 && yuyue_counter==0 && start_work==1)
 	{
 		if(set_temp>current_temp)
 		{
@@ -477,13 +480,13 @@ void main()
 	init_printf();
 	init_ntc_adc();
 	init_display();
-    init_TIMER0();
+  init_TIMER0();
 	EA = 1;
 	CTK_Init();	
 							
 
 	//printf("start\n\r");	
-
+	buzzer();
 	while(1)
 	{
 
@@ -599,12 +602,7 @@ void init_display()
 	P2M7=GPIO_Out_PP;
 
 	P1M2=GPIO_Out_PP;//KEY LEDS
-
-	DISPLAY_COM1=1;
-	DISPLAY_COM2=1;
-	DISPLAY_COM3=1;
-	DISPLAY_COM4=1;
-	DISPLAY_LED=1;
+	display_off();
 }
 
 void display_flash()
