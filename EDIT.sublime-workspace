@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"t",
+				"set_temp"
+			],
+			[
+				"di",
+				"dingshi_counter"
+			],
+			[
+				"u",
+				"u32"
+			],
+			[
 				"dings",
 				"dingshi_start"
 			],
@@ -78,10 +90,6 @@
 			[
 				"hr",
 				"href\tAttr"
-			],
-			[
-				"di",
-				"display\tproperty"
 			]
 		]
 	},
@@ -91,7 +99,7 @@
 			"file": "1021-code/User/Main.c",
 			"settings":
 			{
-				"buffer_size": 11791,
+				"buffer_size": 13740,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -142,12 +150,14 @@
 	"expanded_folders":
 	[
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk",
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code",
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User",
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC"
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code"
 	],
 	"file_history":
 	[
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/C/delay.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/pt_os/lc.h",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/YX23F01CB_CTK采样时间&基线更新时间估算器V1.0.0.0.xlsx",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC/YX23F01CB.H",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/Main.c",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC/delay.h",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/pt_os/pt.h",
@@ -248,6 +258,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"IO_Init",
+			",",
+			"|",
+			".",
+			"\t",
+			"|",
+			".",
+			",",
+			"|",
+			".",
+			"work_mode",
 			"display_yuyue_set",
 			"set_yuyue_time_plus",
 			"display_temp"
@@ -283,24 +304,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11791,
+						"buffer_size": 13740,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4850,
-								4850
+								4078,
+								4094
 							]
 						],
 						"settings":
 						{
+							"is_init_dirty_state": false,
 							"syntax": "Packages/C++/C.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4000.0,
+						"translation.y": 10300.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
