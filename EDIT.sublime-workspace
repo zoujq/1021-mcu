@@ -96,10 +96,10 @@
 	"buffers":
 	[
 		{
-			"file": "1021-code/User/Main.c",
+			"file": "/D/1005_项目/1022-干衣机20201021/SVN/MCU/trunk/1022-code/User/Main.c",
 			"settings":
 			{
-				"buffer_size": 13740,
+				"buffer_size": 16699,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -116,6 +116,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
@@ -150,21 +154,31 @@
 	"expanded_folders":
 	[
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk",
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code"
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/Libraries",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/Libraries/YX23F01CB_GeneralKey_Touch_Lib_V1.04",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/Project"
 	],
 	"file_history":
 	[
+		"/C/Users/ideaz/Desktop/EXTI-外部中断16/user/main.c",
+		"/D/1005_项目/1022-干衣机20201021/SVN/MCU/trunk/1022-code/User/Main.c",
+		"/D/1005_项目/1022-干衣机20201021/SVN/MCU/trunk/1022-code/User/Main0.c",
+		"/D/1005_项目/9001-芯片/5001-51/芯圣/HC89F3xx1模块例程/HC89F3541 Register Example V1.0.2.0/EXTI-外部中断0/user/main.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/Libraries/YX23F01CB_GeneralKey_Touch_Lib_V1.04/YX23F01CB_GeneralKey_Touch_Lib_CFG.h",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/C/YX23F01CB_ISR.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/Libraries/YX23F01CB_GeneralKey_Touch_Lib_V1.04/YX23F01CB_GeneralKey_Touch_Lib_CFG.c",
+		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/Main.c",
+		"/D/1005_项目/1020-裤头车/裤头车/裤头车计数器程序1/裤头车计数器程序/5-完成复位功能.c",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/C/delay.c",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/pt_os/lc.h",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/YX23F01CB_CTK采样时间&基线更新时间估算器V1.0.0.0.xlsx",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC/YX23F01CB.H",
-		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/Main.c",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/INC/delay.h",
 		"/D/1005_项目/1021-暖菜盘20201016/SVN/1021-mcu.git/trunk/1021-code/User/pt_os/pt.h",
 		"/D/1005_项目/9001-芯片/5001-51/芯圣/HC89F3xx1模块例程/HC89F3541 Register Example V1.0.2.0/Timer-T0定时器模式/user/main.c",
 		"/D/1005_项目/1017-智能电饭煲/软硬件SVN/MCU.git/trunk/HT_SHUIHU_1/source/main.c",
 		"/D/1005_项目/9001-芯片/5020-语音/CH-mcu/source/main.c",
-		"/D/1005_项目/1020-裤头车/裤头车/裤头车计数器程序1/裤头车计数器程序/5-完成复位功能.c",
 		"/C/Users/ideaz/Documents/WeChat Files/wxid_on6hm0ikf6fd22/FileStorage/File/2020-10/hot.c",
 		"/D/1001_公司/5006_服务器/SVN/HT_SERVER_1.git/trunk/app/index.php",
 		"/D/1002_灯饰/7001_抓图工具/图片工具01.html",
@@ -244,7 +258,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -258,6 +272,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Delay_ms(1);",
+			"P2_0",
+			"P2M0",
+			"P2_0",
 			"IO_Init",
 			",",
 			"|",
@@ -300,29 +318,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "1021-code/User/Main.c",
+					"file": "/D/1005_项目/1022-干衣机20201021/SVN/MCU/trunk/1022-code/User/Main.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13740,
+						"buffer_size": 16699,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4078,
-								4094
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/C++/C.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 10300.0,
+						"translation.y": 1739.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -412,7 +431,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 229.0,
+	"side_bar_width": 166.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
